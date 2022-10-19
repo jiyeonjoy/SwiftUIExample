@@ -11,6 +11,7 @@
 		2702ECAC28FFE42600DA63C0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2702ECAB28FFE42600DA63C0 /* ContentView.swift */; };
 		2702ECAE28FFE42600DA63C0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2702ECAD28FFE42600DA63C0 /* Assets.xcassets */; };
 		2702ECB128FFE42600DA63C0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2702ECB028FFE42600DA63C0 /* Preview Assets.xcassets */; };
+		2702ECB828FFECBE00DA63C0 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2702ECB728FFECBE00DA63C0 /* MyView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2702ECAB28FFE42600DA63C0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2702ECAD28FFE42600DA63C0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2702ECB028FFE42600DA63C0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2702ECB728FFECBE00DA63C0 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		2702ECA828FFE42600DA63C0 /* SwiftUIExample */ = {
 			isa = PBXGroup;
 			children = (
+				2702ECB728FFECBE00DA63C0 /* MyView.swift */,
 				2702ECA928FFE42600DA63C0 /* SwiftUIExampleApp.swift */,
 				2702ECAB28FFE42600DA63C0 /* ContentView.swift */,
 				2702ECAD28FFE42600DA63C0 /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2702ECB828FFECBE00DA63C0 /* MyView.swift in Sources */,
 				2702ECAC28FFE42600DA63C0 /* ContentView.swift in Sources */,
 				2702ECAA28FFE42600DA63C0 /* SwiftUIExampleApp.swift in Sources */,
 			);
